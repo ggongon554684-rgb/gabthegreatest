@@ -989,8 +989,6 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
   top: 15%;;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #ff99cc; /* blue-green */
-  font-size: 3em;
  font-family: "Brush Script MT", "Lucida Handwriting", cursive;
   text-shadow: 0 0 10px #00fff2, 0 0 20px #00e6d3, 0 0 40px #00fff2;
   animation: fadeIn 3s ease-in-out forwards 4s, glow 2s ease-in-out infinite alternate 4s;
