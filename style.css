@@ -1000,13 +1000,13 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
   z-index: 999;
 }
 .greeting.main {
-  font-size: 7em;
+  font-size: 5em;
   animation-delay: 4s; /* shows after flowers bloom */
 }
 
 .greeting.sub {
   font-size: 1.0em;
-  margin-top: 35px;   /* spacing below title */
+  margin-top: 50px;   /* spacing below title */
   color: #ffffff; /* white */
   text-shadow: 0 0 10px #cccccc, 0 0 20px #ffffff, 0 0 40px #e6e6e6;
   font-family: Arial, Helvetica, sans-serif; /* clean and readable */
