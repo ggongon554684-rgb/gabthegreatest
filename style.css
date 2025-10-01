@@ -1050,3 +1050,20 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 .set3 .flower__leaf {
   background: pink !important;
 }
+/* First set – normal timing */
+.flower-set.set1 {
+  transform: scale(1) translateX(0px);
+  animation-delay: 0s;
+}
+
+/* Second set – starts later */
+.flower-set.set2 {
+  transform: scale(0.8) translateX(200px);
+  animation-delay: 2s;
+}
+
+/* Third set – starts even later */
+.flower-set.set3 {
+  transform: scale(0.8) translateX(-400px);
+  animation-delay: 4s;
+}
